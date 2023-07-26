@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Furnace3DIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Furnace3DLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Furnace3DDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Furnace3DUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Furnace3DRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Furnace 3D1",
+	"position": [
+		-20,
+		120
+	],
+	"healthicon": "furnace3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		78,
+		78
+	],
+	"camera_position": [
+		-20,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

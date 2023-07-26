@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Furnace 3D1.png" width="2200" height="2500">
+  <SubTexture name="Furnace3DLeft0000_copy_540x540.png" x="0" y="0" width="540" height="378" rotated="true"  frameX="-69" frameY="-0" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DLeft0001_copy_540x540.png" x="540" y="0" width="539" height="379" rotated="true"  frameX="-62" frameY="-0" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DLeft0002_copy_540x540.png" x="0" y="378" width="537" height="382" rotated="true"  frameX="-53" frameY="-0" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DRight0002_copy_540x540.png" x="1079" y="0"  width="530" height="500" frameX="-10" frameY="-40" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DRight0001_copy_540x540.png" x="537" y="379" width="526" height="523" rotated="true"  frameX="-3" frameY="-14" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DRight0000_copy_540x540.png" x="0" y="760"  width="516" height="511" frameX="-0" frameY="-28" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DUp0002_copy_540x540.png" x="1609" y="0" width="515" height="468" rotated="true"  frameX="-50" frameY="-21" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DUp0001_copy_540x540.png" x="1609" y="468" width="514" height="470" rotated="true"  frameX="-47" frameY="-26" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0007_copy_540x540.png" x="1063" y="500" width="511" height="350" rotated="true"  frameX="-71" frameY="-0" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DUp0000_copy_540x540.png" x="1063" y="850" width="509" height="472" rotated="true"  frameX="-44" frameY="-31" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0001_copy_540x540.png" x="516" y="938" width="506" height="350" rotated="true"  frameX="-72" frameY="-2" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0006_copy_540x540.png" x="0" y="1271" width="503" height="351" rotated="true"  frameX="-72" frameY="-7" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0004_copy_540x540.png" x="503" y="1288" width="500" height="349" rotated="true"  frameX="-72" frameY="-10" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DDown0002_copy_540x540.png" x="0" y="1622" width="500" height="327" rotated="true"  frameX="-56" frameY="-18" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0011_copy_540x540.png" x="0" y="1949"  width="351" height="498" frameX="-71" frameY="-11" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0010_copy_540x540.png" x="351" y="1949"  width="349" height="498" frameX="-70" frameY="-12" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0009_copy_540x540.png" x="1572" y="938" width="497" height="351" rotated="true"  frameX="-66" frameY="-14" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0000_copy_540x540.png" x="1572" y="1289" width="496" height="352" rotated="true"  frameX="-72" frameY="-13" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DDown0001_copy_540x540.png" x="1003" y="1322" width="496" height="330" rotated="true"  frameX="-57" frameY="-14" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0012_copy_540x540.png" x="1003" y="1652" width="494" height="351" rotated="true"  frameX="-72" frameY="-16" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DDown0000_copy_540x540.png" x="700" y="2003"  width="331" height="492" frameX="-59" frameY="-9" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0003_copy_540x540.png" x="1031" y="2003"  width="348" height="488" frameX="-71" frameY="-22" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0008_copy_540x540.png" x="1379" y="2003"  width="348" height="487" frameX="-70" frameY="-24" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0005_copy_540x540.png" x="1497" y="1652" width="482" height="350" rotated="true"  frameX="-72" frameY="-28" frameWidth="540" frameHeight="540"/>
+  <SubTexture name="Furnace3DIdle0002_copy_540x540.png" x="1727" y="2002"  width="349" height="485" frameX="-70" frameY="-24" frameWidth="540" frameHeight="540"/>
+</TextureAtlas>
